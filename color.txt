@@ -1,0 +1,10 @@
+---------CSGO Chat Colors--------- 
+Paste the symbols in front of the part, you want to be colored, then paste it into the game.
+
+"" white "" green "" blue "" darkblue "" darkred "" gold "" grey "" lightgreen "" lightred "" lime "" orchid " " yellow //yes, its a tab "" palered
+
+white green blue darkblue darkred gold grey lightgreen lightred lime orchid yellow palered //
+
+EXAMPLE: This is a test message to demonstrate chat colors in csgo.
+
+// by Rafflessia
